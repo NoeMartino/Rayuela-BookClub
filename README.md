@@ -88,4 +88,11 @@ https://rayuela-book-club.vercel.app/
 ✔️ Sequelize<br />
 ✔️ Passport.js<br />
 ✔️ Cloudinary<br />
-✔️ Nodemailer<br />
+✔️ Nodemailer<br /><br />
+
+## Colaboradores:
+❖ [Andrés Alejandro Carola](https://github.com/andrescarola)
+❖ [Lucas Martín Ferraro](https://github.com/FerraroLucasMartin)
+❖ [Víctor Alfonso Hardoy](https://github.com/VAHC)
+❖ [María Virginia Montoya](https://github.com/mvirm)
+❖ [Juan Lorenzo Tibiletti](https://github.com/juanlomdp)
